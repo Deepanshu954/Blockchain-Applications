@@ -2,6 +2,8 @@
 
 A comprehensive interactive research platform exploring blockchain technology, from technical foundations to enterprise applications and future innovations. This Next.js application leverages scrollytelling, 3D visualizations, and interactive data widgets to present a deep dive into distributed ledger technology.
 
+## 🌐  [Live Demo](https://blockchain-applications-medc.vercel.app/)
+
 ## 🚀 Key Features
 
 *   **Interactive Scrollytelling**: Seamless narrative flow covering Introduction, Background, Architecture, Platforms, Applications, Case Studies, Security, Scalability, and Future Directions.
